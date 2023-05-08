@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --text: #3e3e3e;
+
+  --white: #F6F8FF;
+  --silver: #6e6e6e;
+  --purple: #4d386d;
+  --purple-light: #674394;
+}
+
+body, button, a, input {
+  color: var(--text);
+  font: 400 1rem "Open Sans", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
