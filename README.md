@@ -26,9 +26,13 @@ Este projeto é um tutorial que ensina a como criar um formulário utilizando _H
 - [x] Armazenar informações do formulário
 - [x] Deploy no Netlify
 
+## 📝 Tema de casa
+
+- [ ] Criar responsividade
+- [ ] Incluir novos campos no formulário
 
 ## 📺 Tutorial no Youtube
 
-<a href="https://youtu.be/rhgTigdR8No" target="_blank">
- <img src="https://img.youtube.com/vi/rhgTigdR8No/maxresdefault.jpg" width="100%" height="auto" />
+<a href="https://youtu.be/SpNPeaaUkGA" target="_blank">
+ <img src="https://img.youtube.com/vi/SpNPeaaUkGA/maxresdefault.jpg" width="100%" height="auto" />
 </a>
